@@ -1,5 +1,5 @@
 # 📌 Heart Disease Prediction Using Artificial Neural Networks (ANN)
-🔗 **Streamlit Dashboard Link:** [Add your dashboard link here]
+🔗 **Streamlit Dashboard Link:** https://yewtgdfgvt8eycptwuutkx.streamlit.app/
 
 ---
 
@@ -126,4 +126,4 @@ The dataset consists of structured clinical data with both categorical and numer
 
 ## 🚀 **Conclusion**
 This project successfully demonstrates how deep learning can be leveraged for **heart disease prediction**.  
-The ANN model achieves **~91% accuracy** after hyperparameter tuning, making it a powerful tool for **healthcare analytics**.
+The ANN model achieves **~99.95% accuracy** after hyperparameter tuning, making it a powerful tool for **healthcare analytics**.
